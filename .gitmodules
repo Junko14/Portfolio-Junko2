@@ -1,3 +1,7 @@
 [submodule "Furniture_shop"]
 	path = Furniture_shop
 	url = https://github.com/Junko14/Furniture_shop.git
+[submodule "Weather_app"]
+    path = Weather_app
+    url = https://github.com/Junko14/weather_app.git
+
